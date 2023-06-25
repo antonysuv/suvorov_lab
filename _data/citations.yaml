@@ -1,11 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: https://doi.org/10.1016/j.cub.2021.10.052
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.cub.2021.10.052
+- id: doi:10.1016/j.cub.2021.10.052
+  title: Widespread introgression across a phylogeny of 155 Drosophila genomes
+  authors:
+  - Anton Suvorov
+  - Bernard Y. Kim
+  - Jeremy Wang
+  - Ellie E. Armstrong
+  - David Peede
+  - "Emmanuel R.R. D\u2019Agostino"
+  - Donald K. Price
+  - Peter J. Waddell
+  - Michael Lang
+  - Virginie Courtier-Orgogozo
+  - Jean R. David
+  - Dmitri Petrov
+  - Daniel R. Matute
+  - Daniel R. Schrider
+  - Aaron A. Comeault
+  publisher: Current Biology
+  date: '2022-01-01'
+  link: https://doi.org/gsdfkx
   type: article-journal
   plugin: sources.py
   file: sources.yaml
