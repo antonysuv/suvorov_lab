@@ -1,6 +1,6 @@
 ---
 name: Anton Suvorov
-image: images/team/Anton.jpg
+image: images/team/Anton.png
 role: pi
 aliases:
   - A. Suvorov
@@ -11,10 +11,4 @@ links:
   
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am an Assistant Professor in the Department of Biological Sciences at Virginia Tech. Prior to joining the Department I receieved my postdoctoral training in Daniel Schrider's Lab at UNC-Chapel Hill, where we were developing new computational approaches for phylogenetic inference. Before that I complited my PhD under the supervision of Seth Bybee at Brigham Young University, Provo, researching the evolution of color vision in dragonflies. I obtained my undergraduate degree in the Department of Entomology at Moscow State Univeristy.       
