@@ -88,92 +88,12 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1098/rsif.2017.0387
-  title: Opportunities and obstacles for deep learning in biology and medicine
-  authors:
-  - Travers Ching
-  - Daniel S. Himmelstein
-  - Brett K. Beaulieu-Jones
-  - Alexandr A. Kalinin
-  - Brian T. Do
-  - Gregory P. Way
-  - Enrico Ferrero
-  - Paul-Michael Agapow
-  - Michael Zietz
-  - Michael M. Hoffman
-  - Wei Xie
-  - Gail L. Rosen
-  - Benjamin J. Lengerich
-  - Johnny Israeli
-  - Jack Lanchantin
-  - Stephen Woloszynek
-  - Anne E. Carpenter
-  - Avanti Shrikumar
-  - Jinbo Xu
-  - Evan M. Cofer
-  - Christopher A. Lavender
-  - Srinivas C. Turaga
-  - Amr M. Alexandari
-  - Zhiyong Lu
-  - David J. Harris
-  - Dave DeCaprio
-  - Yanjun Qi
-  - Anshul Kundaje
-  - Yifan Peng
-  - Laura K. Wiley
-  - Marwin H. S. Segler
-  - Simina M. Boca
-  - S. Joshua Swamidass
-  - Austin Huang
-  - Anthony Gitter
-  - Casey S. Greene
-  publisher: Journal of The Royal Society Interface
-  date: '2018-04-01'
-  link: https://doi.org/gddkhn
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:29424689
-  title: Sci-Hub provides access to nearly all scholarly literature.
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29424689
-  plugin: sources.py
-  file: sources.yaml
-- id: pmc:PMC5640425
-  title: Systematic integration of biomedical knowledge prioritizes drugs for repurposing
-  authors:
-  - Daniel Scott Himmelstein
-  - Antoine Lizee
-  - Christine Hessler
-  - Leo Brueggeman
-  - Sabrina L Chen
-  - Dexter Hadley
-  - Ari Green
-  - Pouya Khankhanian
-  - Sergio E Baranzini
-  publisher: eLife
-  date: '2017-09-22'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5640425/
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:1806.05726
-  title: Generalization of the Fermi Pseudopotential
-  authors:
-  - Trang T. Le
-  - Zach Osman
-  - D. K. Watson
-  - Martin Dunn
-  - B. A. McKinney
-  publisher: arXiv
-  date: '2019-05-01'
-  link: https://arxiv.org/abs/1806.05726
+- id: https://doi.org/10.1016/j.cub.2021.10.052
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.cub.2021.10.052
+  type: article-journal
   plugin: sources.py
   file: sources.yaml
