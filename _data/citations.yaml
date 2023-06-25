@@ -68,11 +68,32 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/573782
+  title: Sequential compression of gene expression across dimensionalities and methods
+    reveals no single best method or dimensionality
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-11'
+  link: https://doi.org/gfxjxf
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: https://doi.org/10.1093/sysbio/syz060
+  title: ''
+  authors: []
+  publisher: ''
+  date: '2020-12-04'
+  link: https://academic.oup.com/sysbio/article/69/2/221/5559282?login=false
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +110,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
