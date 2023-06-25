@@ -1,8 +1,10 @@
 ---
-name: It Can be YOU
+name: YOU
 image: images/photo.jpg
 role: phd
-
+aliases:
+  - Y. YOU
+  - Y YOU
 
 ---
 
