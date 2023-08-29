@@ -1,9 +1,10 @@
 # site properties and page defaults
 title: Suvorov Lab
-subtitle: 
-description: Welcome to the Suvorov Lab at Virginia Tech. We are a computational biology lab that develops and applies machine learning methods to perform various kinds of phylogenetic inference.
+description: Welcome to the Suvorov Lab at Virginia Tech. We are a computational biology lab that develops and applies machine learning methods to perform various kinds of phylogenetic inference.  
 header: images/background.jpg
 footer: images/background.jpg
+
+
 
 # site social media and other links
 links:

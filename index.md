@@ -1,81 +1,16 @@
 ---
 ---
 
-# antonysuv's Website
+# Who we are 
 
-An engaging 1-3 sentence description of your lab.
+
+Welcome to the Suvorov Lab at Virginia Tech. We are a computational biology lab that develops and applies machine learning methods to perform various kinds of phylogenetic inference. Accurate estimation of historic relationships between populations or species remains one of the most formidable tasks of contemporary evolutionary biology. Phylogenetic trees that delineate these relationships serve as a cornerstone structure for almost any basic research leveraging evolutionary information. That is to say, in addition to helping to reconstruct the Tree of Life, phylogenetic analyses can help researchers track the evolution of gene families, predict patterns of virus virulence , perform ancestral state reconstruction, conduct “phylogenetically-aware” drug design and vaccine development, trace the evolution of human spoken languages, and numerous other basic as well as practical applications.  
+
 
 {% include section.html %}
 
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
+  include figure.html
+  image="images/title.jpg"
+  width="800px"
 %}

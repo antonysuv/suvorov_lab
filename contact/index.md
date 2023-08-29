@@ -7,27 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are located in the Department of Biological Sciences \
+2125 Derring Hall (Mail Code 0406) \
+926 West Campus Drive \
+Blacksburg, VA 24061 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="asu [at] vt.edu.edu"
+  
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Derring+Hall/@37.2270084,-80.4272244,15.55z/data=!4m6!3m5!1s0x884d95134febe121:0xdd03ef2d8f47eaf7!8m2!3d37.2291399!4d-80.4255126!16s%2Fg%2F11g6qt6vgv?entry=ttu"
 %}
 
 {% include section.html %}
@@ -36,8 +32,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/unilogo.png"
 %}
 
 {% endcapture %}
@@ -46,8 +41,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/campus.jpeg"
 %}
 
 {% endcapture %}

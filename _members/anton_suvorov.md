@@ -1,6 +1,6 @@
 ---
 name: Anton Suvorov
-image: images/team/Anton.png
+image: images/team/Anton.jpeg
 role: pi
 aliases:
   - A. Suvorov

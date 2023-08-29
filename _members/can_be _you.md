@@ -1,7 +1,6 @@
 ---
 name: YOU
-image: images/photo.jpg
-role: phd
+image: images/photo.png
 aliases:
   - Y. YOU
   - Y YOU
