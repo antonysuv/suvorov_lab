@@ -51,4 +51,8 @@
 - id:  doi:10.1371/journal.pone.0046415
   image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/07/19432_text_animation.gif
 
+- id: eid:2-s2.0-79958822534
+  authors:
+  - Anton Suvorov
+  date: '2011-05-26'   
 
