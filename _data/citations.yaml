@@ -1,118 +1,358 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/786764
+  title: Evolution and development of male-specific leg brushes in Drosophilidae
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Kohtaro Tanaka
+  - Olga Barmina
+  - Ammon Thompson
+  - Jonathan H. Massey
+  - Bernard Y. Kim
+  - Anton Suvorov
+  - Artyom Kopp
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+  date: '2022-08-08'
+  link: https://doi.org/gk22zv
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w184/springer-static/cover/journal/427.jpg
+- id: doi:10.1101/2022.11.07.515518
+  title: Reliable estimation of tree branch lengths using deep neural networks
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Anton Suvorov
+  - Daniel R. Schrider
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  some-field: 123
-  plugin: orcid.py
-  file: orcid.yaml
+  date: '2022-11-08'
+  link: https://doi.org/gsdfnp
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg
+- id: doi:10.1111/evo.14564
+  title: "Secondary reversion to sexual monomorphism associated with tissue\u2010\
+    specific loss of\n            <i>doublesex</i>\n            expression"
+  authors:
+  - "Jian\u2010jun Gao"
+  - Olga Barmina
+  - Ammon Thompson
+  - Bernard Y. Kim
+  - Anton Suvorov
+  - Kohtaro Tanaka
+  - Hideaki Watabe
+  - Masanori J. Toda
+  - "Ji\u2010Min Chen"
+  - Takehiro K. Katoh
+  - Artyom Kopp
+  publisher: Evolution
+  date: '2022-07-23'
+  link: https://doi.org/gsdkjs
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/evolut/evolut_title536242644.svg
+- id: doi:10.1016/j.cub.2022.05.039
+  title: The evolutionary trajectory of drosophilid walking
+  authors:
+  - Ryan A. York
+  - Luke E. Brezovec
+  - Jenn Coughlan
+  - Steven Herbst
+  - Avery Krieger
+  - Su-Yee Lee
+  - Brandon Pratt
+  - Ashley D. Smart
+  - Eugene Song
+  - Anton Suvorov
+  - Daniel R. Matute
+  - John C. Tuthill
+  - Thomas R. Clandinin
+  publisher: Current Biology
+  date: '2022-07-01'
+  link: https://doi.org/gsdkjt
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/asset/b5df7fd0-8c74-42b3-bf9d-52ae9c84ceff/cov200h.gif
+- id: doi:10.1093/sysbio/syab063
+  title: Deep Ancestral Introgression Shapes Evolutionary History of Dragonflies and
+    Damselflies
+  authors:
+  - Anton Suvorov
+  - Celine Scornavacca
+  - M Stanley Fujimoto
+  - Paul Bodily
+  - Mark Clement
+  - Keith A Crandall
+  - Michael F Whiting
+  - Daniel R Schrider
+  - Seth M Bybee
+  publisher: Systematic Biology
+  date: '2021-07-29'
+  link: https://doi.org/gp8gbf
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/sysbio/sysbio_title1175497244.svg
+- id: doi:10.1016/j.cub.2021.10.052
+  title: Widespread introgression across a phylogeny of 155 Drosophila genomes
+  authors:
+  - Anton Suvorov
+  - Bernard Y. Kim
+  - Jeremy Wang
+  - Ellie E. Armstrong
+  - David Peede
+  - "Emmanuel R.R. D\u2019Agostino"
+  - Donald K. Price
+  - Peter J. Waddell
+  - Michael Lang
+  - Virginie Courtier-Orgogozo
+  - Jean R. David
+  - Dmitri Petrov
+  - Daniel R. Matute
+  - Daniel R. Schrider
+  - Aaron A. Comeault
+  publisher: Current Biology
+  date: '2022-01-01'
+  link: https://doi.org/gsdfkx
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/asset/292d54de-0e29-4824-b238-31e88437184e/cov200h.gif
+- id: doi:10.1093/g3journal/jkaa045
+  title: Genome analysis of <i>Plectus murrayi</i>, a nematode from continental Antarctica
+  authors:
+  - Xia Xue
+  - Anton Suvorov
+  - Stanley Fujimoto
+  - Adler R Dilman
+  - Byron J Adams
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2020-12-22'
+  link: https://doi.org/gmcnrh
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/g3journal/g3journal_title2058267037.svg
+- id: doi:10.1111/mec.15443
+  title: 'Gut microbial diversity across a contact zone for California voles: Implications
+    for lineage divergence of hosts and mitonuclear mismatch in the assembly of the
+    mammalian gut microbiome'
+  authors:
+  - Dana Lin
+  - Eileen A. Lacey
+  - Bryan H. Bach
+  - Ke Bi
+  - Christopher J. Conroy
+  - Anton Suvorov
+  - Rauri C. K. Bowie
+  publisher: Molecular Ecology
+  date: '2020-05-01'
+  link: https://doi.org/gsdfmz
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/pb-assets/journal-banners/1365294x-1656433085793.jpg
+- id: doi:10.1093/sysbio/syz060
+  title: Accurate Inference of Tree Topologies from Multiple Sequence Alignments Using
+    Deep Learning
+  authors:
+  - Anton Suvorov
+  - Joshua Hochuli
+  - Daniel R Schrider
+  publisher: Systematic Biology
+  date: '2019-09-03'
+  link: https://doi.org/gp88fx
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/sysbio/sysbio_title1175497244.svg
+- id: doi:10.1111/mec.13884
+  title: 'Opsins have evolved under the permanent heterozygote model: insights from
+    phylotranscriptomics of Odonata'
+  authors:
+  - Anton Suvorov
+  - Nicholas O. Jensen
+  - Camilla R. Sharkey
+  - M. Stanley Fujimoto
+  - Paul Bodily
+  - Haley M. Cahill Wightman
+  - T. Heath Ogden
+  - Mark J. Clement
+  - Seth M. Bybee
+  publisher: Molecular Ecology
+  date: '2016-11-05'
+  link: https://doi.org/f9s3n9
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/pb-assets/journal-banners/1365294x-1656433085793.jpg
+- id: doi:10.1038/s41598-017-00061-7
+  title: Overcoming the loss of blue sensitivity through opsin duplication in the
+    largest animal group, beetles
+  authors:
+  - Camilla R. Sharkey
+  - M. Stanley Fujimoto
+  - Nathan P. Lord
+  - Seunggwan Shin
+  - Duane D. McKenna
+  - Anton Suvorov
+  - Gavin J. Martin
+  - Seth M. Bybee
+  publisher: Scientific Reports
+  date: '2017-01-31'
+  link: https://doi.org/f9w4nb
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
+- id: doi:10.1093/bioinformatics/btw571
+  title: 'The OGCleaner: filtering false-positive homology clusters'
+  authors:
+  - M Stanley Fujimoto
+  - Anton Suvorov
+  - Nicholas O Jensen
+  - Mark J Clement
+  - Quinn Snell
+  - Seth M Bybee
+  publisher: Bioinformatics
+  date: '2016-09-10'
+  link: https://doi.org/f9wfnr
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/39/9/2/m_bioinfo_39_9cover.jpeg?Expires=1696903918&Signature=shfLgPb4snyVen2emTBRXVyWzXN-CwyhavFM-l7gF517wfge2yvY3lGM2iRHepzhIvDDCXBfwYSYo87PMGBc~0hqDzlIwv~Ng7Msbv1WPW57jjDPBX7tp4Yr-aS3npeF80f8Og4mTih5tE3VNUoPv7I-EHYARLYLxgLTbFV22V7pR87EDntvO7zUIS4U1z5agEbcYT4-Ls~xhJXU232FupDpwkeB7USMHZpXHzuQGog-wFEvep3NjhDbCHSZ6gUTbLB94yckoEy7mOklSSallUYmw3mQtw-6y3l708ESN7bInsM5EXSJSXgM2WUgjCWhpgjoNVZ1Gws4i6P7-WvKKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1186/s12862-016-0674-4
+  title: 'A cure for the blues: opsin duplication and subfunctionalization for short-wavelength
+    sensitivity in jewel beetles (Coleoptera: Buprestidae)'
+  authors:
+  - Nathan P. Lord
+  - Rebecca L. Plimpton
+  - Camilla R. Sharkey
+  - Anton Suvorov
+  - Jonathan P. Lelito
+  - Barry M. Willardson
+  - Seth M. Bybee
+  publisher: BMC Evolutionary Biology
+  date: '2016-05-18'
+  link: https://doi.org/gsdfm2
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://bmcecolevol.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
+- id: doi:10.1186/s12859-016-0955-3
+  title: 'Detecting false positive sequence homology: a machine learning approach'
+  authors:
+  - M. Stanley Fujimoto
+  - Anton Suvorov
+  - Nicholas O. Jensen
+  - Mark J. Clement
+  - Seth M. Bybee
+  publisher: BMC Bioinformatics
+  date: '2016-02-24'
+  link: https://doi.org/f8svzt
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://bmcecolevol.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
+- id: pmc:PMC5057408
+  title: Odonata (dragonflies and damselflies) as a bridge between ecology and evolutionary
+    genomics.
+  authors:
+  - Seth Bybee
+  - "Alex C\xF3rdoba-Aguilar"
+  - M Catherine Duryea
+  - Ryo Futahashi
+  - Bengt Hansson
+  - M Olalla Lorenzo-Carballa
+  - Ruud Schilder
+  - Robby Stoks
+  - Anton Suvorov
+  - Erik I Svensson
+  - Janne Swaegers
+  - Yuma Takahashi
+  - Phillip C Watts
+  - Maren Wellenreuther
+  publisher: Frontiers in zoology
+  date: '2018-04-15'
+  link: http://europepmc.org/abstract/med/27766110
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://frontiersinzoology.biomedcentral.com/images/12983/logo.svg
+- id: doi:10.1071/IS15055
+  title: 'Reinventing the leaf: multiple origins of leaf-like wings in katydids (Orthoptera
+    : Tettigoniidae)'
+  authors:
+  - Joseph Mugleston
+  - Michael Naegle
+  - Hojun Song
+  - Seth M. Bybee
+  - Spencer Ingley
+  - Anton Suvorov
+  - Michael F. Whiting
+  publisher: Invertebrate Systematics
+  date: '2016-01-01'
+  link: https://doi.org/f89f8w
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.publish.csiro.au/images/journals/banners/ban_is_1.png
+- id: doi:10.1186/s40555-014-0051-1
+  title: 'DNA barcoding of Palaearctic Ulidiidae (Diptera: Tephritoidea): morphology,
+    DNA evolution, and Markov codon models'
+  authors:
+  - Tatiana V Galinskaya
+  - Anton Suvorov
+  - Mikhail V Okun
+  - Anatole I Shatalkin
+  publisher: Zoological Studies
+  date: '2014-08-20'
+  link: https://doi.org/f6hmgv
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w110/springer-static/cover/journal/40555.jpg
+- id: doi:10.1371/journal.pone.0083547
+  title: Intra-Specific Regulatory Variation in Drosophila pseudoobscura
+  authors:
+  - Anton Suvorov
+  - Viola Nolte
+  - Ram Vinay Pandey
+  - Susanne U. Franssen
+  - Andreas Futschik
+  - "Christian Schl\xF6tterer"
+  publisher: PLoS ONE
+  date: '2013-12-27'
+  link: https://doi.org/f3sqrf
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/07/19432_text_animation.gif
+- id: doi:10.1371/journal.pone.0046415
+  title: "Evaluation of Different Reference Based Annotation Strategies Using RNA-Seq\
+    \ \u2013 A Case Study in Drososphila pseudoobscura"
+  authors:
+  - Nicola Palmieri
+  - Viola Nolte
+  - Anton Suvorov
+  - Carolin Kosiol
+  - "Christian Schl\xF6tterer"
+  publisher: PLoS ONE
+  date: '2012-10-03'
+  link: https://doi.org/f3smv5
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/07/19432_text_animation.gif
+- id: eid:2-s2.0-79958822534
+  title: 'Comparative molecular genetics of Nehalennia speciosa (Charpentier) from
+    geographically distant populations (Zygoptera: Coenagrionidae)'
+  publisher: Odonatologica
+  date: '2011-05-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79958822534&partnerID=MN8TOARS
+  orcid: 0000-0003-3898-9195
+  plugin: sources.py
+  file: sources.yaml
+  authors: Anton Suvorov
+  image: https://www.odonatologica.com/wp-content/uploads/2014/08/logo.jpg

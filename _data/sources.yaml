@@ -1,0 +1,56 @@
+- id: eid:2-s2.0-79958822534 #odonatologica
+  date: '2011-05-26'
+  authors: Anton Suvorov
+  image: https://www.odonatologica.com/wp-content/uploads/2014/08/logo.jpg
+- id: doi:10.1016/j.cub.2022.05.039
+  image: https://www.cell.com/cms/asset/b5df7fd0-8c74-42b3-bf9d-52ae9c84ceff/cov200h.gif
+- id: doi:10.1016/j.cub.2021.10.052
+  image: https://www.cell.com/cms/asset/292d54de-0e29-4824-b238-31e88437184e/cov200h.gif
+- id: doi:10.1093/sysbio/syab063
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/sysbio/sysbio_title1175497244.svg       
+- id: doi:10.1101/2022.11.07.515518
+  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg  
+- id: doi:10.1111/evo.14564
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/evolut/evolut_title536242644.svg
+- id: doi:10.1111/mec.15443  
+  image: https://onlinelibrary.wiley.com/pb-assets/journal-banners/1365294x-1656433085793.jpg  
+
+- id: doi:10.1093/sysbio/syz060
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/sysbio/sysbio_title1175497244.svg  
+
+- id: doi:10.1111/mec.13884
+  image: https://onlinelibrary.wiley.com/pb-assets/journal-banners/1365294x-1656433085793.jpg
+
+- id: doi:10.1093/g3journal/jkaa045 
+  image: https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/g3journal/g3journal_title2058267037.svg  
+
+- id: doi:10.1038/s41598-017-00061-7
+  image: https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg
+
+- id: pmc:PMC5057408
+  image: https://frontiersinzoology.biomedcentral.com/images/12983/logo.svg
+
+- id: doi:10.1093/bioinformatics/btw571   
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/39/9/2/m_bioinfo_39_9cover.jpeg?Expires=1696903918&Signature=shfLgPb4snyVen2emTBRXVyWzXN-CwyhavFM-l7gF517wfge2yvY3lGM2iRHepzhIvDDCXBfwYSYo87PMGBc~0hqDzlIwv~Ng7Msbv1WPW57jjDPBX7tp4Yr-aS3npeF80f8Og4mTih5tE3VNUoPv7I-EHYARLYLxgLTbFV22V7pR87EDntvO7zUIS4U1z5agEbcYT4-Ls~xhJXU232FupDpwkeB7USMHZpXHzuQGog-wFEvep3NjhDbCHSZ6gUTbLB94yckoEy7mOklSSallUYmw3mQtw-6y3l708ESN7bInsM5EXSJSXgM2WUgjCWhpgjoNVZ1Gws4i6P7-WvKKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1101/786764
+  date: '2022-08-08'
+  image: https://media.springernature.com/w184/springer-static/cover/journal/427.jpg
+
+- id: doi:10.1186/s12862-016-0674-4
+  image: https://bmcecolevol.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
+
+- id: doi:10.1186/s12859-016-0955-3
+  image: https://bmcecolevol.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
+
+- id: doi:10.1071/IS15055 
+  image: https://www.publish.csiro.au/images/journals/banners/ban_is_1.png
+
+- id: doi:10.1186/s40555-014-0051-1 
+  image: https://media.springernature.com/w110/springer-static/cover/journal/40555.jpg  
+
+- id: doi:10.1371/journal.pone.0083547
+  image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/07/19432_text_animation.gif
+
+- id:  doi:10.1371/journal.pone.0046415
+  image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/07/19432_text_animation.gif
