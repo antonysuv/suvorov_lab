@@ -1,4 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: doi.org/10.1371/journal.pcbi.1012337
+  title: Evolution and development of male-specific leg brushes in Drosophilidae
+  authors:
+  - Anton Suvorov
+  - Daniel R. Schrider
+  publisher: PLOS
+  date: '2024-08-08'
+  plugin: sources.py
+  file: sources.yaml
+  image: https://twitter.com/PLOSCompBiol/photo
 
 - id: doi:10.1101/786764
   title: Evolution and development of male-specific leg brushes in Drosophilidae
