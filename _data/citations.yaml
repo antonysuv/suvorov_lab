@@ -16,6 +16,7 @@
   - Anton Suvorov
   - Jessica L. Ware
   date: '2024-09-20'
+  publisher: Molecular Phylogenetics and Evolution 
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790324X00093-cov200h.gif
@@ -25,12 +26,12 @@
   authors:
   - Anton Suvorov
   - Daniel R. Schrider
-  publisher: PLOS
+  publisher: PLOS Computational Biology 
   date: '2024-09-10'
   link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012337
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/antonysuv/suvorov_lab/blob/main/images/plos_compbio.jpg
+  image: https://theplosblog.plos.org/wp-content/uploads/sites/6/2020/05/final.jpg
 
 - id: doi:10.1101/786764
   title: Evolution and development of male-specific leg brushes in Drosophilidae
@@ -49,18 +50,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/w184/springer-static/cover/journal/427.jpg
-- id: doi:10.1101/2022.11.07.515518
-  title: Reliable estimation of tree branch lengths using deep neural networks
-  authors:
-  - Anton Suvorov
-  - Daniel R. Schrider
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-08'
-  link: https://doi.org/gsdfnp
-  orcid: 0000-0003-3898-9195
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/sites/default/files/bioRxiv_article.jpg
+
 - id: doi:10.1111/evo.14564
   title: "Secondary reversion to sexual monomorphism associated with tissue\u2010\
     specific loss of\n            <i>doublesex</i>\n            expression"
