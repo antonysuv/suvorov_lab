@@ -1,7 +1,7 @@
 ---
 name: Ying Fei Lin (Iris)
 image: images/team/Iris.jpeg
-role: PhD student
+role: phd
 aliases:
   - I. Lin
   - I. Lin
