@@ -1,4 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi.org/10.1371/journal.pbio.3002697
+  title: Single-fly genome assemblies fill major phylogenomic gaps across the Drosophilidae Tree of Life 
+  link: https://doi.org/10.1371/journal.pbio.3002697
+  authors:
+  - Bernard Y. Kim 
+  - Hannah R. Gellert
+  - Samuel H. Church
+  - Anton Suvorov
+  - Sean S. Anderson
+  - Olga Barmina
+  - Sofia G. Beskid
+  - Aaron A. Comeault
+  - K. Nicole Crown
+  - Sarah E. Diamond
+  - Steve Dorus
+  - Takako Fujichika
+  - James A. Hemker
+  - Jan Hrcek
+  - Maaria Kankare
+  - Toru Katoh
+  - Karl N. Magnacca
+  - Ryan A. Martin
+  - Teruyuki Matsunaga
+  - Matthew J. Medeiros
+  - Danny E. Miller
+  - Scott Pitnick
+  - Michele Schiffer
+  - Sara Simoni
+  - Tessa E. Steenwinkel
+  - Zeeshan A. Syed
+  - Aya Takahashi
+  - Kevin H-C. Wei
+  - Tsuya Yokoyama
+  - Michael B. Eisen
+  - Artyom Kopp
+  - Daniel Matute
+  - Darren J. Obbard
+  - Patrick M. O’Grady
+  - Donald K. Price
+  - Masanori J. Toda
+  - Thomas Werner
+  - Dmitri A. Petrov
+  date: '2024-07-18'
+  publisher: PLOS Biology 
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.lib.ncsu.edu/sites/default/files/plosforblog.jpg
+
 - id: doi.org/10.1371/journal.pcbi.1012337
   title: A molecular phylogeny of the Petaluridae (Odonata Anisoptera) A 160-Million-Year-Old story of drift and extinction 
   link: https://doi.org/10.1016/j.ympev.2024.108185
