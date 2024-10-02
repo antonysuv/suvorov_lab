@@ -7,7 +7,7 @@
   - Bernard Y. Kim 
   - Hannah R. Gellert
   - Samuel H. Church
-  - "**Anton Suvorov**"
+  - Anton Suvorov
   - Sean S. Anderson
   - Olga Barmina
   - Sofia G. Beskid
