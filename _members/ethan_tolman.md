@@ -1,7 +1,7 @@
 ---
 name: Ethan Tolman
 image: images/team/Ethan.jpeg
-role: Postdoctoral Fellow
+role: postdoc
 aliases:
   - E. Tolman
   - E. Tolman
